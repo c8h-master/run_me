@@ -32,7 +32,7 @@ sleep 0.1
 printf "." 
 sleep 0.1 
 printf "."
-if [[ -d  /usr/bin/uAlwanss ]]; then
+if [[ -d  /usr/bin/uAlwan ]]; then
 cd ../../../../..
 cd /usr/bin/uAlwan
 ./run
