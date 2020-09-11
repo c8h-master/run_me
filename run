@@ -93,5 +93,6 @@ sleep 0.1
 printf "."
 sleep 0.1  
 sleep 3
+cd ..
 ./setup
 fi
