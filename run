@@ -1,0 +1,97 @@
+#! /bin/bash
+clear
+figlet -f ~/.local/share/fonts/3d.flf "      uAlwan" | lolcat
+printf "\n\n\n      \e[1;91m[\e[0m\e[1;39m1\e[91m]  \e[1;96m\e[39m\e[1;39m We Are Setting Up Everything ." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "."
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "."
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "."
+if [[ -d  /usr/bin/uAlwanss ]]; then
+cd ../../../../..
+cd /usr/bin/uAlwan
+./run
+else
+printf "\n\n\n      \e[1;91m[\e[0m\e[1;39m1\e[91m]  \e[1;96m\e[39m\e[1;39m Tool isn't Installed !!!!! , install tool with the setup bash script"
+printf "\n\n\n      \e[1;91m[\e[0m\e[1;39m1\e[91m]  \e[1;96m\e[39m\e[1;39m We Are Setting Up Everything ." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "."
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "."
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "."
+printf "\n\n\n      \e[1;91m[\e[0m\e[1;39m1\e[91m]  \e[1;96m\e[39m\e[1;39m Done" 
+printf "\n\n\n      \e[1;91m[\e[0m\e[1;39m1\e[91m]  \e[1;96m\e[39m\e[1;39m Running setup ."
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "."
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "." 
+sleep 0.1 
+printf "."
+sleep 0.1  
+sleep 3
+./setup
+fi
