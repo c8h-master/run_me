@@ -35,7 +35,7 @@ printf "."
 if [[ -d  /usr/bin/uAlwan ]]; then
 cd ../../../../..
 cd /usr/bin/uAlwan
-./run
+./haxor
 else
 printf "\n\n\n      \e[1;91m[\e[0m\e[1;39m1\e[91m]  \e[1;96m\e[39m\e[1;39m Tool isn't Installed !!!!! , install tool with the setup bash script"
 printf "\n\n\n      \e[1;91m[\e[0m\e[1;39m1\e[91m]  \e[1;96m\e[39m\e[1;39m We Are Setting Up Everything ." 
